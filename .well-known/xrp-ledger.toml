@@ -1,0 +1,6 @@
+[[TOKENS]]
+issuer = "YOUR_ISSUER_ADDRESS_HERE"
+currency = "KVP"
+name = "KVP"
+desc = "KVP token on the XRP Ledger"
+icon = "https://kvpCoin.github.io/kvp_coin_image.jpg"
